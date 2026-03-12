@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Chaithanya 👋
 
-<!--
-**ChochChill/ChochChill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer | C# / .NET | Go | Distributed Systems
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- Backend developer working with **C# / .NET**
+- Exploring backend engineering with **Go**
+- Interested in **system design, infrastructure, and high-performance systems**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+**Languages**
+- C#
+- Go
+- Python
+
+**Backend**
+- .NET
+- REST APIs
+- PostgreSQL
+- Redis
+
+**Infrastructure**
+- Docker
+- Linux
+- Git
+
+## 📚 Currently Learning
+- Heaps & priority queues
+- Distributed systems fundamentals
+- Backend system design
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=ChochChill&show_icons=true)
