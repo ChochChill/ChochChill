@@ -29,5 +29,9 @@ Backend Developer | C# / .NET | Go | Distributed Systems
 - Distributed systems fundamentals
 - Backend system design
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats## 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=ChochChill&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChochChill&layout=compact)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ChochChill)
